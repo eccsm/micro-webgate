@@ -1,0 +1,8 @@
+{
+  "name": "gateway",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
